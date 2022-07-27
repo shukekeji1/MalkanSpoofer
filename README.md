@@ -5,7 +5,7 @@
 
 Malkan Spoofer is my newest project. I've working on it since a while for now. Im realing you version v1.0. 
 
-<b>Note: </b>By making use of this repository and/or the content within, you agree that you have read and accepted the terms of the <a href="#disclaimer">Disclaimer</a>
+<b>Note: </b>By making use of this repository and/or the content within, you agree that you have read and accepted the terms of the
 
 <h2 align="center">Content</h2>
 
