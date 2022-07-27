@@ -31,6 +31,7 @@ Spoofer have been tested on:
     <li>Valorant 🟡 (if it's working LMK on discord bomba#6740) </li>
     <li>Overwath ✅</li>
     <li>RS6 ✅</li>
+    <li>Apex Legends ✅</li>
 </ol>
 
 <h2 align="center">FAQs</h2>
