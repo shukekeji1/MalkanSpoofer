@@ -12,6 +12,7 @@ Malkan Spoofer is my newest project. I've working on it since a while for now. I
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [What's New](#whats-new)
 - [Tested on](#tested)
+- [FAQ](#faq)
 
 <h2 align="center">What's New?</h2>
 <ul>
@@ -31,3 +32,15 @@ Spoofer have been tested on:
     <li>Overwath ✅</li>
     <li>RS6 ✅</li>
 </ol>
+
+<h2 align="center">FAQs</h2>
+
+#### 1. Why is my Antivirus recognize this file as Danger?</li>
+<p>
+Because it operates similar to viruses eg. reading/writing from memory, hooking etc. some false positives shit.
+https://www.virustotal.com/gui/file/438e97c728933deffa503e3aefbbbe1234643bc106f2dd48a2ec2b2dd34d2068/detection
+<p>
+#### 2. Can this affect my experience in games??</li>
+<p>
+It will not provide any perfomance issues to ur device
+<p>
