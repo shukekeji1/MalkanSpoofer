@@ -17,6 +17,7 @@ Malkan Spoofer is my newest project. I've working on it since a while for now. I
 <h2 align="center">What's New?</h2>
 <ul>
     <li>v1.0 - First Realese</li>
+    <li>v1.01 - Fixed bugged launcher</li>
 </ul>
 <h1 align="center">Tested On</h1>
 Spoofer have been tested on:
