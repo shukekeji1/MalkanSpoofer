@@ -22,13 +22,11 @@ Spoofer have been tested on:
 <li>Working - ✅</li>
 <li>Haven't been tested in a while - 🟡</li>
 <li>Not Working - ⛔</li>
-<br><br>
 <ol>
-    <li>Fortnite</li>
-    <li>FiveM</li>
-    <li>COD Warzone</li>
-    <li>Valorant</li>
-    <li>EAC</li>
-    <li>EAC</li>
-    <li>EAC</li>
+    <li>Fortnite ✅</li>
+    <li>FiveM ✅</li>
+    <li>COD Warzone ✅</li>
+    <li>Valorant 🟡 (if it's working LMK on discord bomba#6740) </li>
+    <li>Overwath ✅</li>
+    <li>RS6 ✅</li>
 </ol>
