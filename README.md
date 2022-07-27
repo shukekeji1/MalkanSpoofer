@@ -17,3 +17,18 @@ Malkan Spoofer is my newest project. I've working on it since a while for now. I
 <ul>
     <li>v1.0 - First Realese</li>
 </ul>
+<h1 align="center">Tested On</h1>
+Spoofer have been tested on:
+<li>Working - ✅</li>
+<li>Haven't been tested in a while - 🟡</li>
+<li>Not Working - ⛔</li>
+<br><br>
+<ol>
+    <li>Fortnite</li>
+    <li>FiveM</li>
+    <li>COD Warzone</li>
+    <li>Valorant</li>
+    <li>EAC</li>
+    <li>EAC</li>
+    <li>EAC</li>
+</ol>
