@@ -34,7 +34,6 @@ Spoofer have been tested on:
 </ol>
 
 <h2 align="center">FAQs</h2>
-
 1. Why is my Antivirus recognize this file as Danger?</li>
 <p>
 Because it operates similar to viruses eg. reading/writing from memory, hooking etc. some false positives shit.
