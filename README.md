@@ -39,7 +39,6 @@ Spoofer have been tested on:
 Because it operates similar to viruses eg. reading/writing from memory, hooking etc. some false positives shit.
 https://www.virustotal.com/gui/file/438e97c728933deffa503e3aefbbbe1234643bc106f2dd48a2ec2b2dd34d2068/detection
 <p>
-<br>
 2. Can this affect my experience in games??</li>
 <p>
 It will not provide any perfomance issues to ur device
